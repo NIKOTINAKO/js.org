@@ -1782,7 +1782,10 @@ var cnames_active = {
   "legendz": "botstudios.github.io/LEGENDZ",
   "legalizyum": {
   "target": "nikotinako.github.io/Legalizyum.github.io",
-  "txt": ["178a021c._improvmx=178a021c0516439784b5fd14785abfe3"],
+  "txt": [
+    "178a021c._improvmx=178a021c0516439784b5fd14785abfe3",
+    "v=spf1 include:spf.improvmx.com ~all"
+  ],
   "mx": [
     "10 mx1.improvmx.com",
     "20 mx2.improvmx.com"
