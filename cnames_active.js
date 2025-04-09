@@ -1780,7 +1780,18 @@ var cnames_active = {
   "leet-xt": "binbard.github.io/leet-xt",
   "leetcode": "cname.vercel-dns.com", // noCF
   "legendz": "botstudios.github.io/LEGENDZ",
-  "legalizyum": "nikotinako.github.io/legalizyum",
+  {
+  "legalizyum":
+  "target": "nikotinako.github.io/Legalizyum.github.io",
+  "txt": [
+    "178a021c._improvmx=178a021c0516439784b5fd14785abfe3",
+    "v=spf1 include:spf.improvmx.com ~all"
+  ],
+  "mx": [
+    "10 mx1.improvmx.com",
+    "20 mx2.improvmx.com"
+  ]
+}
   "lego": "polight.github.io/lego",
   "leipzig": "leipzigjs.github.io", // noCF? (don´t add this in a new PR)
   "lemn": "lemnjs.github.io/lemn",
