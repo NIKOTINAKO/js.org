@@ -1780,7 +1780,7 @@ var cnames_active = {
   "leet-xt": "binbard.github.io/leet-xt",
   "leetcode": "cname.vercel-dns.com", // noCF
   "legendz": "botstudios.github.io/LEGENDZ",
-  "legalizyum": "nikotinako.github.io",
+  "legalizyum": "nikotinako.github.io/legalizyum",
   "lego": "polight.github.io/lego",
   "leipzig": "leipzigjs.github.io", // noCF? (don´t add this in a new PR)
   "lemn": "lemnjs.github.io/lemn",
