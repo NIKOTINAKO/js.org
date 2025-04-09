@@ -1780,7 +1780,8 @@ var cnames_active = {
   "leet-xt": "binbard.github.io/leet-xt",
   "leetcode": "cname.vercel-dns.com", // noCF
   "legendz": "botstudios.github.io/LEGENDZ",
-  "legalizyum": {
+  {
+  "legalizyum":
   "target": "nikotinako.github.io/Legalizyum.github.io",
   "txt": [
     "178a021c._improvmx=178a021c0516439784b5fd14785abfe3",
